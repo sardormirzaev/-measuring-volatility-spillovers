@@ -1,6 +1,6 @@
 #########
-Description of the soft copy of the Master Thesis
-Study Program: Quantitative Finance 
+Description 
+
 Sardorbek Mirzaev
 ###### 
 
@@ -14,4 +14,3 @@ The fuctions, graphs and tables are constructed with the help of the r packages.
 
 4. The VARMA method requires a additional software "RATs". You can find folder containing  the results in excel format obtained from the software, and scripts to run the platform. Additionally, I included the trial version of the "RATS" software, this should be enough to replicate my results. 
   
-5. The soft copy of the Thesis in pdf format.  
