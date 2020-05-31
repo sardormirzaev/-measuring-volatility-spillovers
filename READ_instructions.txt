@@ -1,0 +1,17 @@
+#########
+Description of the soft copy of the Master Thesis
+Study Program: Quantitative Finance 
+Sardorbek Mirzaev
+###### 
+
+1.Data in Excel : report1 and report2 are data sets of stock  indices and currencies.
+ The dataset is already prepared for direct application to R-studio. The entries are logged difference (as mentioned in the literature) of weekly closed prices.
+
+2.There are 3 R-files numbered 1, 2, 3. Running them in sequential order  or independent oder both are aso possile.
+The fuctions, graphs and tables are constructed with the help of the r packages. 
+
+3. in pdf format i also include results of granger causality mentioned in my thesis. The Eviews was used for that purpose. 
+
+4. The VARMA method requires a additional software "RATs". You can find folder containing  the results in excel format obtained from the software, and scripts to run the platform. Additionally, I included the trial version of the "RATS" software, this should be enough to replicate my results. 
+  
+5. The soft copy of the Thesis in pdf format.  
